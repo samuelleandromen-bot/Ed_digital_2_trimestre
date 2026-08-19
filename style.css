@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f8ff;
+    background-color: #dedede;
     font-family: Arial, sans-serif;
     padding: 20px;
 }
@@ -48,6 +48,10 @@ h3:hover {
 }
 
 li:hover {
+   color: #1a5276
+}
+
+p:hover {
    color: #1a5276
 }
 
