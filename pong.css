@@ -1,11 +1,14 @@
 body {
-    background-color: #dedede;
+    background-color: #002855;
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), #090979);
+    min-height: 100vh;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
 }
 
 h1 {
-  text-align: center;
+    color: aliceblue;
+    text-align: center;
 }
 
 img {
@@ -13,7 +16,7 @@ img {
     border: 3px solid #1a5276;
 }
 h1 {
-    border-bottom: 3px dashed #1a5276;
+    border-bottom: 3px dashed #0084ff;
     padding-bottom: 5px;
 }
 
