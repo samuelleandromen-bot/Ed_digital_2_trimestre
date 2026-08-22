@@ -1,26 +1,72 @@
 body {
-    background-color: #002855;
     background-image: linear-gradient(to bottom right, rgb(0, 0, 0), #090979);
     min-height: 100vh;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
+    color: rgb(255, 255, 255);
 }
 
-h1 {
-    color: aliceblue;
-    text-align: center;
-}
-
-img {
-    border-radius: 10px;
-    border: 3px solid #1a5276;
-}
 h1 {
     border-bottom: 3px dashed #0084ff;
-    padding-bottom: 5px;
+    padding-bottom: 20px;
 }
 
 h1:hover {
    color: #1a5276;
 }
+
+h1 {
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+h3 {
+    color: #cc0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+strong {
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 30px;
+}
+
+li {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+a  {
+    color: #ffffff;
+}
+
+a:hover {
+    background-color: #cc0000;
+}
+
+
+.imagem-logo {
+    border: 3px solid #ffffff;
+    border-radius: 3px;
+}
+
 
