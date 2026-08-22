@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 255), #1a5276);
+    font-family: Arial;
+    margin: 20px;
+}
+
+h1 {
+    color: #00254c;
+    text-align: center;
+}
+
+p {
+    background-color: #d9d9d9;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+strong {
+    color: #00254c;
+}
+
+p:hover {
+   color: #1a5276;
+}
+
+h2:hover {
+   color: #1a5276;
+}
